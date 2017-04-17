@@ -143,3 +143,11 @@ header{
   margin: 30px 30px 30px 30px;
 
 }
+#footer{
+  background-color: #585858;
+  text-align: center;
+  color: white;
+  font-family:  'Raleway', sans-serif;
+  padding: 10px 10px 10px 10px;
+  height: 90px;
+}
