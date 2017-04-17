@@ -131,6 +131,15 @@ header{
   font-size: 35px;
   letter-spacing: 2px;
 }
-.box-work{
-  max-width: 50%;
+#work{
+  text-align: center;
+}
+#work .box-work .img{
+  width: 300px;
+
+}
+#work .box-work{
+  float: left;
+  margin: 30px 30px 30px 30px;
+
 }
